@@ -1,0 +1,13 @@
+truncate table ai_cure.problem_check_threshold_plan;
+problem_check_threshold
+problem_diagnostic_tree_rc_order
+problem_collection_plan
+problem_collection_item
+problem_diagnostic_tree
+problem_check_item
+problem_collection_script
+problem_diagnostic_tree_solution
+problem_collection_handling
+problem_list
+problem_indicator
+problem_plan_script
